@@ -8,6 +8,8 @@ To answer this question, **I analyzed the top leagues per country and tracked ho
   - England is ranked first
   - France is ranked fifth
   - Germany, Italy, and Spain are both between the English and French leagues (not much of a clear distinction between the three)
+  - These top five countries contain the majority player appearances made by players who play outside of their home country professionally
+  - The English system is so strong that if it were it's own country's top league, it would place XX in the rankings of the top country's leagues
   
 In addition to examining the country's top leagues, I also examined **which clubs send the most players to the World Cup**. The data comes from the past three World Cups (also from Wikipedia). I find:
   - only eight clubs have sent more than ten players to the World Cup three times. They are shown here (in order of total appearances):
