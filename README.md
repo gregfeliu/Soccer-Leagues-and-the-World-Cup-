@@ -14,7 +14,7 @@ To answer this question, **I analyzed the top leagues per country and tracked ho
 In addition to examining the country's top leagues, I also examined **which clubs send the most players to the World Cup**. The data comes from the past three World Cups (also from Wikipedia). I find:
   - only eight clubs have sent more than ten players to the World Cup three times. They are shown here (in order of total appearances):
 
-TABLE OF TOP CLUBS 
+![The top Clubs by World Cup Appearances](./images/Clubs_by_Players.png)
 
   - The top five leagues is represented by these "super" clubs (those that have sent more than 10 players to two or more of the past three World Cups)
   - Other than the English Premier League, there are only one or two super clubs in each of the top five leagues
